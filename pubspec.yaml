@@ -1,0 +1,29 @@
+name: math_equation_editor
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_math_fork: ^0.7.2
+  math_keyboard: ^0.3.1
+  shared_preferences: ^2.3.2
+  flutter_bloc: ^8.1.6
+#  html: ^0.15.4
+
+  easy_latex: ^1.0.2
+  equatable: ^2.0.5
+  bloc: ^8.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

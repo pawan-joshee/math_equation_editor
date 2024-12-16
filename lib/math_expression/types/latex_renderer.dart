@@ -1,0 +1,4 @@
+enum LatexRenderer {
+  mathFork,
+  easyLatex,
+}

@@ -1,0 +1,61 @@
+.
+├── bloc
+│   ├── image_editor
+│   │   ├── image_editor_bloc.dart
+│   │   ├── image_editor_event.dart
+│   │   └── image_editor_state.dart
+│   ├── math_expression
+│   │   ├── math_expression_bloc.dart
+│   │   ├── math_expression_event.dart
+│   │   └── math_expression_state.dart
+│   └── settings
+│       ├── settings_bloc.dart
+│       ├── settings_event.dart
+│       └── settings_state.dart
+├── data
+│   └── models
+│       └── settings_model.dart
+├── directory_structure.txt
+├── image editor
+│   ├── crop_overlay.dart
+│   ├── crop_painter.dart
+│   ├── drawing_painter.dart
+│   ├── filters_constants.dart
+│   ├── image_editor.dart
+│   ├── image_preview_overlay.dart
+│   ├── models
+│   │   └── image_editor_models.dart
+│   └── providers
+│       └── image_editor_provider.dart
+├── main.dart
+├── math_expression
+│   ├── action_buttons.dart
+│   ├── dialogs
+│   │   ├── rendered_expression_dialog.dart
+│   │   ├── saved_expressions_dialog.dart
+│   │   └── settings_dialog.dart
+│   ├── drawer_menu.dart
+│   ├── export
+│   │   ├── export_image_web.dart
+│   │   ├── export_svg_eps_ole.dart
+│   │   └── svg_exporter.dart
+│   ├── math_field_widget.dart
+│   ├── pages
+│   │   └── math_keyboard_page.dart
+│   ├── rendered_expression.dart
+│   ├── services
+│   │   └── settings_service.dart
+│   ├── symbol_selector.dart
+│   ├── toolbar.dart
+│   ├── types
+│   │   └── latex_renderer.dart
+│   └── utils
+│       ├── constants.dart
+│       ├── custom_text_decoration.dart
+│       └── scalable_brackets.dart
+├── models
+│   └── edit_history.dart
+└── widgets
+    └── custom_color_picker.dart
+
+19 directories, 40 files

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "aryavart-academy",
+    "staging": "math-equation-editor"
+  },
+  "targets": {},
+  "etags": {}
+}
