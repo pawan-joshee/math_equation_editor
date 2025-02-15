@@ -1,11 +1,11 @@
 name: math_equation_editor
-description: "A new Flutter project."
+description: A web based Flutter application for creating and editing mathematical equations with real-time LaTeX rendering.
 publish_to: 'none' 
 
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.5.3
+  sdk: '>=3.5.3 <4.0.0'
 
 dependencies:
   flutter:

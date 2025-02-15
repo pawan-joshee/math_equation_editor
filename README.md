@@ -148,4 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions, suggestions, or issues, please open an [issue](https://github.com/your-username/math_equation_editor/issues) on GitHub or contact the repository owner at [p¯awanjoshi055@gmail.com].
+For questions, suggestions, or issues, please open an [issue](https://github.com/your-username/math_equation_editor/issues) on GitHub or contact the repository owner at [pawanjoshi055@gmail.com].
